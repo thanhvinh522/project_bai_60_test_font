@@ -1,0 +1,14 @@
+/* muốn tất cả các thẻ trong body có font "Inter", sans-serif;*/
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* riêng thẻ h1 thì có font riêng */
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+
+/* nhưng riêng thẻ p thì có font khác */
+p {
+  font-family: "Roboto Slab", serif;
+}
